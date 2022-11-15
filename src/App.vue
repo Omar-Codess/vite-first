@@ -7,7 +7,7 @@ export default {
 
     }
   },
-  components: {
+  components : {
     AppTitle
   },
   methods: {
